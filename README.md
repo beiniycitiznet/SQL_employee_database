@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-<img src="Pictures/sql.png">
+<img src="Images/sql.png">
 
 ## Background
 
